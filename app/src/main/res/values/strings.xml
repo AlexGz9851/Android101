@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Android101</string>
+    <string name="title">My first TODO App</string>
+    <string name="edit_title">Title</string>
+    <string name="edit_description">Description</string>
+    <string name="hint_title">Insert a cool title</string>
+    <string name="hint_description">Insert a cool description</string>
+    <string name="btn_action">Add</string>
 </resources>
