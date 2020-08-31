@@ -17,6 +17,9 @@ Puedes consutlar nuestros otros talleres en [https://www.algoritmia-gda.club/](h
  - Creacion de disenos responsivos
  - Creacion de repositorio del proyecto desde AS.
 
+## Results
+![result image](https://github.com/Club-de-Algoritmia-GDA/Android101/blob/master/result.png)
+
 ## Recursos útiles
 
  - ¿Y ahora a dónde voy? -> [https://roadmap.sh/android](https://roadmap.sh/android)
